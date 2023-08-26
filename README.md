@@ -9,6 +9,6 @@ The initial concept PCB used a 24pin connection from a computer psu but was ditc
 # Credits
 Adran - Design and revisioning
 
-MatinatorX - Sourcing part numbers and general pcb design tips
-
 Red0verlord - Confirming voltages so systems weren't fried
+
+Siktah - modeling stl file for barrel jack plug
