@@ -10,6 +10,8 @@ Find below the parts required for the PCB and the links to purchase them
 * Glass Fuseb 6.3A - [LCSC Link](https://www.lcsc.com/product-detail/_Littelfuse-_C178866.html)
 * SMD 6.5A 15uH Inductor - [LCSC Link](https://www.lcsc.com/product-detail/_KOHERelec-_C2847564.html)
 * SMD 510ohm Resistor - [LCSC Link](https://www.lcsc.com/product-detail/_FH-Guangdong-Fenghua-Advanced-Tech-_C131389.html)
+* Schottky Barrier Diode - [LCSC Link](https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_FUXINSEMI-SS54_C3018536.html)
 
 ## Digikey Parts
-* 4 Pin Bottom Entry Connector - [DigiKey Link](https://www.digikey.com.au/en/products/detail/molex/0009484049/863345)
+* 4 Pin Bottom Entry Connector [Digikey Link](https://www.digikey.com.au/en/products/detail/molex/0010021042/3072116)
+* 4 Pin Bottom Entry Connector **FOR REVISION 1.2.5** - [DigiKey Link](https://www.digikey.com.au/en/products/detail/molex/0009484049/863345)
