@@ -13,5 +13,5 @@ Find below the parts required for the PCB and the links to purchase them
 * Schottky Barrier Diode - [LCSC Link](https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_FUXINSEMI-SS54_C3018536.html)
 
 ## Digikey Parts
-* 4 Pin Bottom Entry Connector [Digikey Link](https://www.digikey.com.au/en/products/detail/molex/0010021042/3072116)
+* 4 Pin Bottom Entry Connector **FOR REVISION 1.3.0** [Digikey Link](https://www.digikey.com.au/en/products/detail/molex/0010021042/3072116)
 * 4 Pin Bottom Entry Connector **FOR REVISION 1.2.5** - [DigiKey Link](https://www.digikey.com.au/en/products/detail/molex/0009484049/863345)
